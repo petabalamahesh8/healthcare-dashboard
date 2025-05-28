@@ -3,7 +3,7 @@ import Header from "./components/Headers/Header";
 
 import SideBar from "./components/sidebar/SiderBar";
 import DashboardMainContent from "./components/DashboardMainContent/DashboardMainContent";
-import Home from "./components/HomePage";
+ 
  
 
 const App = () => {
@@ -16,7 +16,7 @@ const App = () => {
           <SideBar />
 
           <main className="flex-1 p-6 overflow-y-auto">
-          
+          <DashboardMainContent />
           </main>
         </div>
       </div>
