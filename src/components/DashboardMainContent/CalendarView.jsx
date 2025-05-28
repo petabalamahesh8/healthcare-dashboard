@@ -23,11 +23,8 @@ function CalendarView() {
         <div className="p-3 bg-indigo-100 rounded">
           <strong>Physiotherapy:</strong> 2:00 PM, Oct 15
         </div>
-          
       </div>
-       
     </div>
-    
   );
 }
 export default CalendarView;

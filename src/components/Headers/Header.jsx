@@ -6,8 +6,7 @@ function Header() {
       <div className="flex items-center gap-6">
 
         <h1 >
-          <span className="text-3xl font-bold text-blue-400">Health</span>
-          <span className="text-3xl font-bold text-indigo-900">Care</span>
+          <img src="https://cdn.vectorstock.com/i/1000x1000/67/45/health-care-logo-concept-vector-41606745.webp" className="w-20" />
           </h1>
         </div>
        <div>
@@ -29,7 +28,7 @@ function Header() {
             alt="User Avatar"
             className="w-8 h-8 rounded-full"
           />
-          <span className="text-sm font-medium text-gray-800">Dr. Smith</span>
+          <span className="text-sm font-medium text-gray-800">Dr. Mahesh</span>
         </div>
         <button className="bg-blue-600 text-white w-8 h-8 flex items-center justify-center rounded-full hover:bg-blue-700 transition">
           <Plus className="w-4 h-4" />

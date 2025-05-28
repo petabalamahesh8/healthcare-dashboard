@@ -2,22 +2,22 @@ const healthStatusData = [
   {
     title: "Heart Rate",
     value: "76 bpm",
-    icon: "❤️",
+    icon: "heart",
   },
   {
     title: "Blood Pressure",
     value: "120/80",
-    icon: "💉",
+    icon: "blood-pressure",
   },
   {
     title: "Oxygen",
     value: "98%",
-    icon: "🫁",
+    icon: "lungs",
   },
   {
     title: "Blood Sugar",
     value: "90 mg/dL",
-    icon: "🩸",
+    icon: "blood-drop",
   },
 ];
 
