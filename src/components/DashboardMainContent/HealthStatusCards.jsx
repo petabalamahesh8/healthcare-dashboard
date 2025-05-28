@@ -1,6 +1,7 @@
 import React from "react";
-import healthStatusData from "../data/healthStatusData";
+
 import { FaHeart, FaTachometerAlt, FaLungs, FaTint } from "react-icons/fa";
+import healthStatusData from "../data/healthStatusData";
  
 const iconMap = {
   heart: <FaHeart className="text-red-500" />,
