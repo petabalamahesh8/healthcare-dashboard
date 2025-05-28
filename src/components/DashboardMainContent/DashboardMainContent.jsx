@@ -4,7 +4,6 @@ import HealthStatusCards from "./HealthStatusCards";
 import CalendarView from "./CalendarView";
 import UpcomingSchedule from "./UpcomingSchedule";
 import ActivityFeed from "./ActivityFeed";
-import Header from "../Headers/Header";
 
 function DashboardMainContent() {
   return (

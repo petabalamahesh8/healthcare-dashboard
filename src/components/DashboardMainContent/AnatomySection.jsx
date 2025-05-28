@@ -1,9 +1,4 @@
 import ActivityFeed from "./ActivityFeed";
- 
-
-
- 
-
 
 
  

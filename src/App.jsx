@@ -1,8 +1,9 @@
 import React from "react";
-import Header from "./components/Headers/Header";
-
+ 
 import SideBar from "./components/sidebar/SiderBar";
-import DashboardMainContent from "./components/DashboardMainContent/DashboardMainContent";
+import DashboardMainContent from "./components/dashboardmaincontent/DashboardMainContent";
+import Header from "./components/Headers/Header";
+ 
  
 
 const App = () => {

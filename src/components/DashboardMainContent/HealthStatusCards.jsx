@@ -3,6 +3,8 @@ import React from "react";
 import { FaHeart, FaTachometerAlt, FaLungs, FaTint } from "react-icons/fa";
 import healthStatusData from "../data/healthStatusData";
  
+ 
+ 
 const iconMap = {
   heart: <FaHeart className="text-red-500" />,
   "blood-pressure": <FaTachometerAlt className="text-blue-500" />,

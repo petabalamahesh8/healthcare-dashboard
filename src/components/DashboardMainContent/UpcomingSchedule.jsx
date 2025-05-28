@@ -1,5 +1,5 @@
 import React from "react";
-import upcomingScheduleData from "../data/UpcomingScheduleData";
+import upcomingScheduleData from "../data/upcomingScheduleData";
  
 
 const UpcomingSchedule = () => {
